@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Bilangan Prima</title>
+</head>
+<body>
+    <!--MEMBUAT BAGIAN HEADER-->
+    <header>
+        <div class="bagian-judul">
+            <h1>BILANGAN PRIMA</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#tentang">Tentang</a></li>
+                <li><a href="#sejarah">Sejarah</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <div class="konten">
+            <div class="periksa-prima">
+                <h2>Periksa Bilangan Prima</h2>
+                <div class="display">
+                    <h3 id="displayNumber">0</h3>
+                </div>
+                <div class="display">
+                    <h3 id="displayHasil">Hasil</h3>
+                </div>
+                <div class="container-row">
+                    <div class="button">1</div>
+                    <div class="button">2</div>
+                    <div class="button">3</div>
+                    <div class="button">4</div>
+                    <div class="button">5</div>
+                </div>
+                <div class="container-row">
+                    <div class="button">6</div>
+                    <div class="button">7</div>
+                    <div class="button">8</div>
+                    <div class="button">9</div>
+                    <div class="button">0</div>
+                </div>
+                <div class="container-row">
+                    <div class="button hapus">Hapus</div>
+                    <div class="button periksa">Periksa</div>
+                </div>
+            </div>
+
+            <article>
+                <div id="tentang">
+                    <h2>Tentang Bilangan Prima</h2>
+                    <p>
+                        Bilangan prima adalah bilangan yang hanya memiliki dua faktor, 
+                        yaitu bilangan 1 dan bilangan itu sendiri. Dengan kata lain, 
+                        bilangan ini hanya bisa habis dibagi oleh angka 1 dan dirinya 
+                        sendiri serta tidak bisa dibagi oleh bilangan lainnya.
+                    </p>
+                    <p>
+                        Sebagai conton, 7 adalah bilangan prima, karena angka 7 hanya akan 
+                        habis jika dibagi dengan angka 1 dan dirinya sendiri. Bilangan prima 
+                        lain adalah 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, dan seterusnya.
+                    </p>
+                </div>
+            </article>
+
+            <article>
+                <div id="sejarah">
+                    <h2>Sejarah Bilangan Prima</h2>
+                    <p>
+                        Bilangan prima sudah dikenal sejak lama sekali. Dari catatan yang ditemukan, 
+                        diketahui materi ini telah dipelajari pada tahun sekitar 300 sebelum masehi 
+                        oleh matematikawan Yunani bernama Euclid of Alexandria. Beliau-lah orang 
+                        yang menyatakan bahwa bilangan prima tidak terbatas. Sekitar seratus tahun 
+                        setelahnya, ilmuwan Yunani lainnya bernama Eratosthenes of Cyrene menemukan 
+                        metode screening untuk mengidentifikasi primary numbers dalam daftar tertentu. 
+                        Setelah studi yang dilakukan Eratosthenes of Cyrene, studi mengenai bil prima 
+                        tidaklah terlalu banyak berkembang.
+                    </p>
+                    <p>
+                        Perkembangan pesat terjadi pada abad ke-17 ketika seorang biarawan Prancis 
+                        bernama Marin Mersenne yang mendefinisikan bil prima sebagai berikut:
+                    </p>
+                    <p>
+                        M<sub>p</sub> = 2<sup>p</sup> - 1
+                    </p>
+                    <p>
+                        Jika p adalah bil prima, maka ada kemungkinan meskipun tidak pasti, bahwa 
+                        M<sub>p</sub> adalah bil prima juga.
+                    </p>
+                    <p>
+                        Studi mengenai bilangan ini terus berlanjut dan pada tahun 1996 didirikanlah the 
+                        Great Internet Marsenne Prime Search (GIMPS) oleh Gaorge Woltman dari Massachusetts 
+                        Institute of Technology. Proyek ini didirikan untuk mengeksporasi bilangan-bilangan 
+                        prima yang belum ditemukan.
+                    </p>
+                </div>
+            </article>
+        </div>
+
+        <aside>
+            <h2>Biodata Diri</h2>
+            <figure>
+                <img src="rizki-alvian.png" class="foto-profil">
+                <figcaption>foto profil</figcaption>
+            </figure>
+            <p>Nama : Rizki Alvian</p>
+            <p>Alamat : Lampung, Indonesia</p>
+        </aside>
+    </main>
+
+    <footer>
+        <small>Copyright &copy; 2022</small>
+    </footer>
+
+    <script src="bilangan-prima.js"></script>
+</body>
+</html>
