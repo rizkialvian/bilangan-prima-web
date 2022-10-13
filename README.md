@@ -20,13 +20,13 @@ Anda dapat menerapkan beberapa saran untuk mendapatkan nilai tinggi, berikut sar
   * Penggunaan font yang pas dengan tema.
   * Penerapan padding dan margin yang pas.
 
-Menerapkan layout yang responsif: 
-Menggunakan media query untuk menyesuaikan layout pada berbagai ukuran layar device.
-Pastikan untuk tidak terdapat konten yang menumpuk maupun keluar dari kontainer ketika dicoba pada dekstop, tablet, dan juga mobile.
-Menerapkan flexbox dalam menyusun layout.
+* Menerapkan layout yang responsif: 
+  * Menggunakan media query untuk menyesuaikan layout pada berbagai ukuran layar device.
+  * Pastikan untuk tidak terdapat konten yang menumpuk maupun keluar dari kontainer ketika dicoba pada dekstop, tablet, dan juga mobile.
+  * Menerapkan flexbox dalam menyusun layout.
 
-Terdapat penerapan JavaScript dalam memanipulasi DOM, seperti: (pilih satu)
-Membuat drop down.
-Memanfaatkan logika seperti looping dalam menampilkan elemen dan konten.
-Membuat slider.
-dan lainnya yang mendukung tampilan website agar lebih hidup.
+* Terdapat penerapan JavaScript dalam memanipulasi DOM, seperti: (pilih satu)
+  * Membuat drop down.
+  * Memanfaatkan logika seperti looping dalam menampilkan elemen dan konten.
+  * Membuat slider.
+  * dan lainnya yang mendukung tampilan website agar lebih hidup.
