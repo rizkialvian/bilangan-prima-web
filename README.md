@@ -1,5 +1,3 @@
-Link hasil web menentukan bilangan prima https://rizkialvian.github.io/bilangan-prima-web/
-
 # Submission Dicoding Class: Tugas Akhir Membuat Website
 
 Berikut kriteria submission yang harus Anda penuhi:
@@ -30,3 +28,9 @@ Anda dapat menerapkan beberapa saran untuk mendapatkan nilai tinggi, berikut sar
   * Memanfaatkan logika seperti looping dalam menampilkan elemen dan konten.
   * Membuat slider.
   * dan lainnya yang mendukung tampilan website agar lebih hidup.
+
+
+Tema web yang saya buat adalah Bilangan Prima. web dapat digunakan untuk menentukan apakah suatu bilangan termasuk kedalam bilangan
+prima atau bukan bilangan prima. selain itu didalam web terdapat artikel yang dapat menambah sedikit wawasan seputar bilangan prima.
+
+Link hasil web menentukan bilangan prima https://rizkialvian.github.io/bilangan-prima-web/
