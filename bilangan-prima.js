@@ -1,10 +1,9 @@
-
 const prima = {
     displayNumber : "0",
     displayHasil : "Hasil"
 };
 
-/** Update Display */
+//Update Display
 function updateDisplay () {
     document.querySelector("#displayNumber").innerText = prima.displayNumber;
     document.querySelector("#displayHasil").innerText = prima.displayHasil
@@ -71,4 +70,3 @@ for (const button of buttons) {
         updateDisplay()
     })
 }
-
