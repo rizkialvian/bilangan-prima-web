@@ -11,3 +11,22 @@ Berikut kriteria submission yang harus Anda penuhi:
 * Menyusun layout dengan menggunakan float atau flexbox.
 * Tema yang ditampilkan bebas.
 * Semakin detail dan lengkap website maka nilai submission bisa lebih tinggi.
+
+Anda dapat menerapkan beberapa saran untuk mendapatkan nilai tinggi, berikut sarannya:
+* Menerapkan tampilan aplikasi yang menarik:
+* * Memiliki pemilihan warna yang pas dengan tema aplikasi (Dalam memilih warna, Anda dapat memanfaatkan tools pemilihan warna seperti colorhunt.co).
+* * Tata letak elemen yang pas.
+Contoh : Tidak ada konten yang bertumpuk.
+Penggunaan font yang pas dengan tema.
+Penerapan padding dan margin yang pas.
+
+Menerapkan layout yang responsif: 
+Menggunakan media query untuk menyesuaikan layout pada berbagai ukuran layar device.
+Pastikan untuk tidak terdapat konten yang menumpuk maupun keluar dari kontainer ketika dicoba pada dekstop, tablet, dan juga mobile.
+Menerapkan flexbox dalam menyusun layout.
+
+Terdapat penerapan JavaScript dalam memanipulasi DOM, seperti: (pilih satu)
+Membuat drop down.
+Memanfaatkan logika seperti looping dalam menampilkan elemen dan konten.
+Membuat slider.
+dan lainnya yang mendukung tampilan website agar lebih hidup.
